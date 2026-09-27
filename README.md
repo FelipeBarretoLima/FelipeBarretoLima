@@ -6,7 +6,7 @@
 
 #
 
-Sou o Felipe, tenho 20 anos e sou natural de Londrina Paraná. Atualmente Curso Ciência de Dados e IA na UEL. Gosto de música, espostes no geral e de jogar. Sou movido por inovações e novos desafios!
+Sou o Felipe, tenho 20 anos e sou natural de Londrina Paraná. Atualmente curso Ciência de Dados e IA na UEL. Gosto de música, gosto de esportes no geral e também gosto de jogar. Sou movido por inovações e novos desafios!
  
 #
 
