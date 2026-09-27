@@ -10,7 +10,7 @@ Sou o Felipe, tenho 20 anos e sou natural de Londrina Paraná. Atualmente curso 
  
 #
 
-<img align="right" alt="" height="190px" src="./src/gitHub.gif">
+<img align="right" alt="" height="190px" src="./src/gifGithub.gif">
 
 <h3 align="left">Connect with me!</h3>
 
