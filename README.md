@@ -18,7 +18,7 @@ Sou o Felipe, tenho 20 anos e sou natural de Londrina Paraná. Atualmente Curso 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/felipe-barreto-4b0215351/)
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack </h3>
 
 <img 
     align="left" 
